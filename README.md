@@ -1,5 +1,5 @@
-hi,
-im yoyo-mik
+//hi,
+im yoyo-mik and
 currently learning C++
 
 
